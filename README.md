@@ -45,4 +45,4 @@ A console Python application for interacting with language models via the Groq A
 
 ## 📥 Installation and Setup
 
-* Clone the repository: git clone https://github.com/Byslim04/Groq-AI-CLI-Assistant.git and cd Groq-AI-CLI-Assistant[span_8](start_span)[span_8](end_span)
+* Clone the repository: git clone https://github.com/Byslim04/Groq-AI-CLI-Assistant.git and cd Groq-AI-CLI-Assistant.
