@@ -47,9 +47,3 @@ try:
             file.write("=" * 30 + "\n\n")
 
         print("\n[Успешно]: Запись сохранена в файл history.txt!")
-
-except urllib.error.HTTPError as e:
-    error_details = e.read().decode("utf-8")
-    print(f"Ошибка сервера ({e.code}): {error_details}")
-except Exception as e:
-    print("Произошла ошибка:", e)
